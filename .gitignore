@@ -3,6 +3,7 @@
 
 # Ignore the virtual environment
 /.venv
-/ .gitignore
 # Ignore all CSV files
-*.csv
+/test_data.csv
+/train_data.csv
+/valid_data.csv
