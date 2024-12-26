@@ -1,0 +1,8 @@
+# Ignore the gradio folder
+/.gradio
+
+# Ignore the virtual environment
+/.venv
+/ .gitignore
+# Ignore all CSV files
+*.csv
